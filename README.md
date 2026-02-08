@@ -3,9 +3,9 @@
 
 # MERRA-2 Neural Network Downscaling (1 km; 3-Hourly) — Antarctic Peninsula
 
-Spatial downscaling of atmospheric reanalysis 2-m air temperature data (t2m) over the Antarctic Peninsula using a digital elevation model (1 km) 
+Spatial downscaling of atmospheric reanalysis 2-m air temperature data (t2m) over the Antarctic Peninsula using a digital elevation model (1 km).
 
-This repository contains a Python workflow that:
+These are the following steps:
 
 1. Loads a grid from a MATLAB file (topography, land/ocean mask, indexing, etc.).
 2. Reads **MERRA-2** 3-hourly surface variables from NetCDF files.
