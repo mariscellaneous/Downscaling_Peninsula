@@ -86,8 +86,8 @@ Mapping/projection:
 
 ---
 
-## Citation / acknowledgement
+## Citation
 
-Gelaro, R., McCarty, W., Suárez, M. J., Todling, R., Molod, A., Takacs, L., ... & Zhao, B. (2017). The modern-era retrospective analysis for research and applications, version 2 (MERRA-2). Journal of climate, 30(14), 5419-5454.
+MERRA-2: Gelaro, R., McCarty, W., Suárez, M. J., Todling, R., Molod, A., Takacs, L., ... & Zhao, B. (2017). The modern-era retrospective analysis for research and applications, version 2 (MERRA-2). Journal of climate, 30(14), 5419-5454.
 
-Howat, I. M., Porter, C., Smith, B. E., Noh, M. J., & Morin, P. (2019). The reference elevation model of Antarctica. The Cryosphere, 13(2), 665-674.
+REMA (DEM): Howat, I. M., Porter, C., Smith, B. E., Noh, M. J., & Morin, P. (2019). The reference elevation model of Antarctica. The Cryosphere, 13(2), 665-674.
