@@ -13,6 +13,11 @@ These are the following steps:
 4. Applies the trained model to a higher-resolution/polar stereographic grid (e.g., ice surface/topography points) via interpolation and reconstruction.
 5. Extracts predicted temperatures at **AWS station locations**, compares them to raw MERRA-2 and to station observations, and saves plots + `.mat` outputs.
 
+
+---
+
+[](Figures/sample_output.png)
+
 ---
 
 ## What this script produces
