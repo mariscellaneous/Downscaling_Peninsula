@@ -16,7 +16,7 @@ These are the following steps:
 
 ---
 
-[](Figures/sample_output.png)
+![](Figures/sample_output.png)
 
 ---
 
