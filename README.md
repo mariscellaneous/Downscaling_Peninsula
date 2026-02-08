@@ -50,8 +50,6 @@ Mapping/projection:
 
 ## Key parameters
 
-Inside the script:
-
 * Geographic filtering is done using a mask like:
 
   * Latitude range: `[-76, -61]`
