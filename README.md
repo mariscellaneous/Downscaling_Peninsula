@@ -8,7 +8,7 @@ Spatial downscaling of atmospheric reanalysis 2-m air temperature data (t2m) ove
 These are the following steps:
 
 1. Loads a grid from a MATLAB file (topography, land/ocean mask, indexing, etc.).
-2. Reads **MERRA-2** 3-hourly surface variables from NetCDF files.
+2. Reads **MERRA-2** surface variables from NetCDF files.
 3. Trains a small **PyTorch neural network** to learn relationships between grid-based predictors (lat/lon/elevation/hour + neighbor fields) and MERRA-2 **T2M**.
 4. Applies the trained model to a higher-resolution/polar stereographic grid (e.g., ice surface/topography points) via interpolation and reconstruction.
 5. Extracts predicted temperatures at **AWS station locations**, compares them to raw MERRA-2 and to station observations, and saves plots + `.mat` outputs.
